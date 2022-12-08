@@ -1,4 +1,7 @@
-### Hi there 👋
+👋 Hi, I'm @ankit, 
+👉 Wordpress, jQuery, Nextjs, Reactjs, Javascript, html and SCSS, 
+😃 Always excited to learn new things, 
+👀 Learning Angular
 
 <!--
 **ankitbtits/ankitbtits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
