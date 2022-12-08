@@ -1,6 +1,6 @@
 👋 Hi, I'm @ankit<br/>
 🔭 Currently working on brandbeacon.app<br/>
-👉 Wordpress, jQuery, Nextjs, Reactjs, Javascript, html and SCSS <br/>
+👉 Wordpress, jQuery, Nextjs, Reactjs, Angular, Javascript, html and CSS/SCSS <br/>
 😃 Always excited to learn new things <br/>
 📫 [How to reach me: ...](https://www.upwork.com/freelancers/~0101eb1074369f013f)
 
