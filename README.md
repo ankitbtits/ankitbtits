@@ -1,7 +1,8 @@
-👋 Hi, I'm @ankit, 
-👉 Wordpress, jQuery, Nextjs, Reactjs, Javascript, html and SCSS, 
-😃 Always excited to learn new things, 
-👀 Learning Angular
+👋 Hi, I'm @ankit<br/>
+👀 Currently working on brandbeacon.app<br/>
+👉 Wordpress, jQuery, Nextjs, Reactjs, Javascript, html and SCSS <br/>
+😃 Always excited to learn new things <br/>
+
 
 <!--
 **ankitbtits/ankitbtits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
