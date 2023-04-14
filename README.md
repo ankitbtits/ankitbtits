@@ -2,7 +2,7 @@
 🔭 Currently working on brandbeacon.app<br/>
 👉 Wordpress, jQuery, Nextjs, Reactjs, Angular, Javascript, html and CSS/SCSS <br/>
 😃 Always excited to learn new things <br/>
-📫 [How to reach me: ...](https://www.upwork.com/freelancers/~0101eb1074369f013f) or [contact](mailto:ankitbtist@gmail.com)
+📫 How to reach me [upwork](https://www.upwork.com/freelancers/~0101eb1074369f013f) or [email](mailto:ankitbtist@gmail.com) or [skype](skype:ankit.sharma498?chat)
 
 <!--
 **ankitbtits/ankitbtits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
